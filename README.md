@@ -13,6 +13,10 @@ generate_Fig_phase_transition.py : generate Fig. 8 in paper
 
 ## Dir 
 util: some helper functions and class.
+
 data/aceca_surface : the data for draw ACECA sampling surface and there are 88 rules for ECA. The data format is that m*n matrix. Rows represent the d_ini and columns represent the alpha.
+
 data/ECAsurface_new : the data for draw AECA sampling surface and there are 88 rules for ECA.
+
 data/ph : the data for draw phase transition plots. ACECA_dic.npy is for before modified algorithm 1, and ACECAph_dic_dpAll.npy is for after modified algorithm 1. The detail of usage can find in file generate_Fig_phase_transition.py. The data in it contains at least the SPT class.
+
