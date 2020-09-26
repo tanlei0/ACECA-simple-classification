@@ -1,5 +1,5 @@
 # ACECA-simple-classification
-This repository is for preprint paper Asynchronous communicating cellular automata: formalization, dynamics and equivalence
+This repository is for preprint paper *Asynchronous communicating cellular automata: formalization, robustness and equivalence*
 
 ## Requirements for using this library 
 Python 3.5.3, numpy 1.14.0, and matplotlib 2.0.2, pandas 1.0.3.
@@ -23,3 +23,4 @@ data/ECAsurface_new : the data for draw AECA sampling surface and there are 88 r
 
 data/ph : the data for draw phase transition plots. ACECA_dic.npy is for before modified algorithm 1, and ACECAph_dic_dpAll.npy is for after modified algorithm 1. The detail of usage can find in file generate_Fig_phase_transition.py. The data in it contains at least the SPT class.
 
+*
