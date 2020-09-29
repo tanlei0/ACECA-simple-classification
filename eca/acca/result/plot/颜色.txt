@@ -1,0 +1,4 @@
+ colors = ['red', 'yellow', 'blue']
+ alphas = [1.0, 0.5, 0.2]
+ m2 虚线
+ m3 实线
