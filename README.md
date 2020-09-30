@@ -18,9 +18,9 @@ acca/ECA.py: ECA model. generate Fig.9 (a) in paper.
 
 acca/ACECA.py: ACECA model. generate Fig.9 (b) in paper.
 
-acca/m3.py: ($m^3$ )ACCA model which can simulate ECA. 
+acca/m3.py: ![1](http://latex.codecogs.com/svg.latex?m^3) - ACCA model which can simulate ECA. 
 
-acca/m2_2m.py: ($m^2+2m$ )ACCA model which can simulate ECA. 
+acca/m2_2m.py: ![1](http://latex.codecogs.com/svg.latex?m^2+2m) - ACCA model which can simulate ECA. 
 
 acca/plot_ACCA.py: generate Fig.10(a, b, c) 、Fig.11(a, b, c)、Fig.12 in paper.
 
