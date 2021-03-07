@@ -41,3 +41,4 @@ for i,rule in enumerate(rule_list1):
     ax.set_title(title_list[i])
 
 plt.legend()
+plt.show()
